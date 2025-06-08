@@ -16,7 +16,7 @@ passives-einkommen/
 └── CNAME                    # Custom Domain (optional)
 title: Home & Kitchen Reviews
 description: Expert reviews of the best home and kitchen products
-url: "https://yourusername.github.io" # Oder Custom Domain
+url: "https://eshop88.github.io" # Oder Custom Domain
 amazon_tag: YOUR_AMAZON_AFFILIATE_ID
 theme: minima
 plugins:
